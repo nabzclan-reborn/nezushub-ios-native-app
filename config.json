@@ -1,1 +1,7 @@
-
+{
+    "latest_version": "1.1",
+    "minimum_version": "1.0",
+    "update_url": "https://nezushub.vip/threads/nezushub-official-app.29/",
+    "force_update": false,
+    "update_message": "A new version of NezusHub is available with exciting new features and bug fixes!"
+}
